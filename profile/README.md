@@ -6,7 +6,7 @@
 
 Our AI Agent analyzes real-time metrics, identifies inefficiencies, and provides actionable recommendations to ensure validators operate at peak productivity. Whether you're managing a single node or an extensive validator network, RustX.io ensures security, efficiency, and simplicity in blockchain operations.
 
-##Key Features:
+#### Key Features:
 - AI-Powered Optimization: Insights to help validators boost performance and stay productive.
 - Real-Time Monitoring: Instant updates on node health, status, and performance.
 - Alerts and Notifications: Immediate alerts for downtime, slashing risks, or rank changes.
@@ -16,3 +16,4 @@ Our AI Agent analyzes real-time metrics, identifies inefficiencies, and provides
 - RustX.io combines next-generation AI capabilities with a scalable and robust architecture, making it the ultimate solution for blockchain node monitoring and management. Join us in redefining how validators monitor and optimize their operations.
 
 #### Explore our repositories, contribute to innovation, or connect with us at rustx.io.
+
